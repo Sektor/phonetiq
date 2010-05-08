@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name[]=PhonetiQ
+Comment[]=MIDlet manager for PhoneME (Java ME Virtual Machine)
+Exec=phonetiq
+Icon=phonetiq/phonetiq
+Type=Application
+Categories=Application;
